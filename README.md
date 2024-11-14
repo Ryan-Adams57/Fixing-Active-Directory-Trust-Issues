@@ -1,5 +1,7 @@
 # Fixing-Active-Directory-Trust-Issues
 
+![Active Directory Trust Relationship Issue](https://github.com/user-attachments/assets/9380b4de-420a-429e-b9e2-de566786d36f)
+
 Fixing Active Directory Trust Relationship Issues: 3 Quick Methods.
 
 If you get the error "𝘛𝘩𝘦 𝘵𝘳𝘶𝘴𝘵 𝘳𝘦𝘭𝘢𝘵𝘪𝘰𝘯𝘴𝘩𝘪𝘱 𝘣𝘦𝘵𝘸𝘦𝘦𝘯 𝘵𝘩𝘪𝘴 𝘸𝘰𝘳𝘬𝘴𝘵𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘵𝘩𝘦 𝘱𝘳𝘪𝘮𝘢𝘳𝘺 𝘥𝘰𝘮𝘢𝘪𝘯 𝘧𝘢𝘪𝘭𝘦𝘥" it’s often due to the computer losing sync with Active Directory (like when a password update is missed between the Domain Controller and a computer).
